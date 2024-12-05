@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>foodpanda</title>
+</head>
+
+<body>
+    <center> <img width="200" src="images/download.png" alt="image foodpanda">
+
+        <h1>food Panda</h1>
+    </center><br>
+
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe repellendus corporis enim maxime sapiente sit
+        officia voluptate, id in, explicabo at eum fugiat. Accusamus veniam at fuga quisquam, a laudantium.</p><br>
+
+    <h2>"EXPLORE MENU"</h2>
+
+    <a href="menu.html">Top Deals</a><br>
+    <ul>
+
+</body>
+
+</html>
